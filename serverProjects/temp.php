@@ -4,12 +4,12 @@
 		{
 			"name":"spiderman",
 			"about":"asdfgdadsgdbsf shfghgf zghtrhs gbdt ",
-			"image":"http://shivaraju.me/images/coding.jpg"
+			"image":"http://shivaraju.live/images/coding.jpg"
 		},
 		{
 			"name":"Captian America",
 			"about":"sdxfgg szd fvsdb fsvdxbf",
-			"image":"http://shivaraju.me/images/coding3.jpg"
+			"image":"http://shivaraju.live/images/coding3.jpg"
 		},
 		{
 			"name":"iron man",
